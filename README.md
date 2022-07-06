@@ -3,14 +3,14 @@ Projeto criado como parte do desafio de Back-End do Módulo 3 do curso de Desenv
 
 Neste projeto, foi desenvolvida uma RESTful API, "DinDin", usando JavaScript, NodeJS e as bibliotecas express, cors, json-server, jsonwebtoken, pg,secure-password e nodemon. Esta API permite:
 
-Cadastrar Usuário
-Fazer Login
-Detalhar Perfil do Usuário Logado
-Editar Perfil do Usuário Logado
-Listar categorias
-Listar transações
-Detalhar transação
-Cadastrar transação
-Editar transação
-Remover transação
-Obter extrato de transações
+<br>Cadastrar Usuário
+<br>Fazer Login
+<br>Detalhar Perfil do Usuário Logado
+<br>Editar Perfil do Usuário Logado
+<br>Listar categorias
+<br>Listar transações
+<br>Detalhar transação
+<br>Cadastrar transação
+<br>Editar transação
+<br>Remover transação
+<br>Obter extrato de transações
