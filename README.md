@@ -1,7 +1,7 @@
 # desafio-modulo3-back-end
 Projeto criado como parte do desafio de Back-End do Módulo 3 do curso de Desenvolvimento de Software FullStack da Cubos Academy.
 
-Neste projeto, foi desenvolvida uma RESTful API, "DinDin", usando JavaScript, NodeJS e as bibliotecas express, cors, json-server, jsonwebtoken, pg,secure-password e nodemon. Esta API permite:
+Neste projeto, foi desenvolvida uma RESTful API usando JavaScript, NodeJS e as bibliotecas express, cors, json-server, jsonwebtoken, pg,secure-password e nodemon. Esta API permite:
 
 <br>Cadastrar Usuário
 <br>Fazer Login
